@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "baseUrl": "",
+  "generatedAt": "2026-06-09T07:54:20.089042400+00:00",
+  "libraryImages": [
+    {
+      "id": "4d6c0e69",
+      "thumbnail": "thumb/4d6c0e69.jpg",
+      "fullsize": "full/4d6c0e69.jpg",
+      "version": 1
+    },
+    {
+      "id": "7fdc7a28",
+      "thumbnail": "thumb/7fdc7a28.jpg",
+      "fullsize": "full/7fdc7a28.jpg",
+      "version": 1
+    }
+  ],
+  "galleries": [
+    {
+      "galleryId": "wall_a",
+      "mode": "Single",
+      "autoplay": true,
+      "interval": 10,
+      "images": [
+        {
+          "id": "bc8ea07a",
+          "thumbnail": "thumb/bc8ea07a.jpg",
+          "fullsize": "full/bc8ea07a.jpg",
+          "version": 1
+        },
+        {
+          "id": "c480561b",
+          "thumbnail": "thumb/c480561b.jpg",
+          "fullsize": "full/c480561b.jpg",
+          "version": 1
+        }
+      ]
+    }
+  ]
+}
